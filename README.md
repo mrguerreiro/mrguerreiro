@@ -4,7 +4,7 @@
 
 
 - 🔭 Atualmente trabalho com front-end e Mobile
-- 🌱 Estou cursando Tecnologia da Informação na UNIVESP
+- 🌱 Sou Bacharel em Tecnologia da Informação pela UNIVESP
 - 📫 Contato: marcosguerreiro@hotmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrguerreiro)](https://github.com/anuraghazra/github-readme-stats)
