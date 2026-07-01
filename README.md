@@ -2,6 +2,10 @@
 <p align="center"><b>Desenvolvedor Full-Stack</b></p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Dispon%C3%ADvel%20para%20trabalhos%20freelancer-2ea44f?style=for-the-badge" alt="Disponível para trabalhos freelancer">
+</p>
+
+<p align="center">
 Construo aplicações web completas — do frontend em React à API em Node.js, banco de dados, integrações de pagamento/logística e deploy.<br>
 Bacharel em Tecnologia da Informação pela UNIVESP.
 </p>
@@ -44,6 +48,8 @@ Bacharel em Tecnologia da Informação pela UNIVESP.
 ---
 
 ## 📫 Contato
+
+**💼 Disponível para trabalhos freelancer** — vamos conversar sobre o seu projeto!
 
 - 📧 **E-mail:** marcosguerreiro_dev@outlook.com
 - 🌐 **Projeto ao vivo:** [wilboor.com.br](https://wilboor.com.br)
